@@ -1,6 +1,6 @@
 {
   "name": "@abdulghani/masonrygrid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React.js flexbox-based masonry grid with determned column and sequentially rendered item.",
   "homepage": "https://github.com/abdulghani/breakpointcontext",
   "main": "build/index.js",
